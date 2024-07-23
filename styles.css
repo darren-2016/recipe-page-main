@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 :root {
     --clr-white: hsl(0, 0%, 100%);
     --clr-stone100: hsl(30, 54%, 90%);
